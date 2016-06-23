@@ -1,0 +1,7 @@
+org.friendlysnmp
+org.friendlysnmp.event
+org.friendlysnmp.mib
+org.friendlysnmp.persist
+org.friendlysnmp.plugin
+org.friendlysnmp.plugin.core
+org.friendlysnmp.target
